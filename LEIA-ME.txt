@@ -1,0 +1,30 @@
+NEUROGAMES 60+ — PACOTE PRONTO PARA GITHUB PAGES
+
+ARQUIVOS
+- index.html: página principal clicável
+- uem-logo.png: logo utilizado na página
+- social-preview.png: imagem que aparece na prévia do Facebook/WhatsApp quando o link é compartilhado
+- instagram-post.png: imagem pronta para o feed do Instagram (o clique ocorre pelo link da bio)
+
+COMO PUBLICAR
+1. Crie no GitHub um repositório chamado: neurogames-60
+2. Envie TODOS os arquivos desta pasta para a raiz do repositório.
+3. Vá em Settings > Pages.
+4. Em Build and deployment, escolha Deploy from a branch.
+5. Selecione main e /(root), depois Save.
+6. Aguarde a publicação do GitHub Pages.
+
+ENDEREÇO CONFIGURADO NO HTML
+https://pinheiro767.github.io/neurogames-60/
+
+Se usar outro nome de repositório ou outro usuário, altere no index.html as linhas og:url, og:image e twitter:image.
+
+INSTAGRAM
+- Publique instagram-post.png no feed.
+- Na legenda: “Acesse os jogos pelo link da bio.”
+- Em Editar perfil > Links, adicione o endereço da página.
+- Nos Stories, use o adesivo LINK apontando para a mesma página.
+
+FACEBOOK
+- Cole o endereço da página em uma publicação.
+- O Facebook poderá usar social-preview.png como cartão visual do link.
