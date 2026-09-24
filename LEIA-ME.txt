@@ -1,30 +1,27 @@
-NEUROGAMES 60+ — PACOTE PRONTO PARA GITHUB PAGES
+NEUROGAMES 60+ — PACOTE ATUALIZADO PARA GITHUB PAGES
 
-ARQUIVOS
-- index.html: página principal clicável
-- uem-logo.png: logo utilizado na página
-- social-preview.png: imagem que aparece na prévia do Facebook/WhatsApp quando o link é compartilhado
-- instagram-post.png: imagem pronta para o feed do Instagram (o clique ocorre pelo link da bio)
-
-COMO PUBLICAR
-1. Crie no GitHub um repositório chamado: neurogames-60
-2. Envie TODOS os arquivos desta pasta para a raiz do repositório.
-3. Vá em Settings > Pages.
-4. Em Build and deployment, escolha Deploy from a branch.
-5. Selecione main e /(root), depois Save.
-6. Aguarde a publicação do GitHub Pages.
-
-ENDEREÇO CONFIGURADO NO HTML
+Este pacote já está configurado para:
 https://pinheiro767.github.io/neurogames-60/
 
-Se usar outro nome de repositório ou outro usuário, altere no index.html as linhas og:url, og:image e twitter:image.
+ARQUIVOS
+- index.html ................ página principal atualizada
+- banner-neurogames.png ..... nova capa imersiva do site
+- folder-neurogames.png ..... folder vertical escolhido
+- instagram-post.png ........ arte quadrada para Instagram
+- social-preview.png ........ prévia 1200x630 para Facebook/WhatsApp
+- uem-logo.png .............. logo UEM com fundo transparente
 
-INSTAGRAM
-- Publique instagram-post.png no feed.
-- Na legenda: “Acesse os jogos pelo link da bio.”
-- Em Editar perfil > Links, adicione o endereço da página.
-- Nos Stories, use o adesivo LINK apontando para a mesma página.
+COMO ATUALIZAR O REPOSITÓRIO
+1. Abra o repositório neurogames-60 no GitHub.
+2. Use Add file > Upload files.
+3. Envie TODOS os arquivos deste pacote para a raiz do repositório.
+4. Quando o GitHub perguntar, substitua os arquivos antigos com o mesmo nome.
+5. Confirme em Commit changes.
+6. Aguarde 1–3 minutos e atualize:
+   https://pinheiro767.github.io/neurogames-60/
 
-FACEBOOK
-- Cole o endereço da página em uma publicação.
-- O Facebook poderá usar social-preview.png como cartão visual do link.
+IMPORTANTE
+O endereço da bio NÃO muda. Continue usando:
+https://pinheiro767.github.io/neurogames-60/
+
+A imagem social-preview.png é a capa usada pelas plataformas quando geram uma prévia do link.
